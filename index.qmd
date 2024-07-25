@@ -1,10 +1,12 @@
 ---
-title: "Visualización del dataset 'tips' con Seaborn"
-author: "Rolando Gonzalez"
-format:
-    html:
-        code-fold:true
-        theme: cosmo
+title: "Mi Documento"
+author: "Autor"
+date: "2024-07-25"
+output:
+  pdf_document:
+    toc: true
+    toc_depth: 3
+theme: cosmo
 ---
 
 
